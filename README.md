@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taskin Saadman
-
-First-year Advanced Computing student at the University of Sydney, majoring in **Computational Data Science**. Passionate about building AI tools and using data to solve real-world problems.
+- 🧑🏽‍🎓 Advanced Computing Freshman (Computational Data Science) @ The University of Sydney
+- 🤖 Passionate about AI and using data to solve real-world problems
 - 🥇 Winner – **FUNdamentals Beginner’s Programming Competition**, Sydney Computing Society
 
 ---
