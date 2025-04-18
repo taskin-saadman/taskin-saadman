@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taskin Saadman
 - 🧑🏽‍🎓 B Advanced Computing Freshman (Computational Data Science) @ The University of Sydney
-- 🤖 Passionate about leveraging AI and Data Science to solve real-world problems
+- 🤖 Passionate about utilizing AI and Data Science to solve real-world problems
 - 🥇 Winner – **FUNdamentals Beginner’s Programming Competition**, Sydney Computing Society
 
 ---
