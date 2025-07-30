@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Taskin Saadman
-- 🧑🏽‍🎓 2nd Year B Advanced Computing (Computational Data Science) @ The University of Sydney
+- 🧑🏽‍🎓 2nd Year B Advanced Computing (Computational Data Science & Software Development) @ The University of Sydney
 - 🤖 Passionate about utilizing AI and Data Science to solve real-world problems
 - 🥇 Winner – **FUNdamentals Beginner’s Programming Competition**, Sydney Computing Society
 
